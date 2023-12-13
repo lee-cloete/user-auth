@@ -1,3 +1,5 @@
+/* @useClient */
+'use client'
 import React from 'react';
 
 const PasswordResetForm = () => {

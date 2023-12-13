@@ -1,6 +1,9 @@
+// RegistrationForm.js
+'use client'
+/* @useClient */
 import React from 'react';
-
 const RegistrationForm = () => {
+
   return (
     <form className="mx-auto max-w-sm">
       <div className="mb-4">
